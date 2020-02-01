@@ -69,41 +69,6 @@ body{
     transition: 0.9s;
     transform: rotateY(360deg);
 }
-.html,
-.css,
-.bootstrap,
-.javascript,
-.jquery,
-.firebase{
-    position: absolute;
-    opacity: 0.1;
-    width: 150px;
-    height: 150px;
-}
-.html{
-    left: 20%;
-    top: 20%;
-}
-.css{
-    left: 35%;
-    top: 20%;
-}
-.bootstrap{
-    left: 55%;
-    top: 20%;
-}
-.javascript{
-    left: 15%;
-    top: 40%;
-}
-.jquery{
-    left: 25%;
-    top: 40%;
-}
-.firebase{
-    left: 35%;
-    top: 40%;
-}
 .resume{
     border-radius: 8px;
     background: rgb(240, 178, 178);
