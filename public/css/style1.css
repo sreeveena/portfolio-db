@@ -13,8 +13,8 @@
 }
 /* images in portfolio and index */
 img{
-    height: 220px; 
-    width: 270px;
+    height: 100px; 
+    width: 100px;
     
 }
 .rounded{
@@ -81,15 +81,15 @@ body{
     height: 150px;
 }
 .html{
-    left: 35%;
+    left: 20%;
     top: 20%;
 }
 .css{
-    left: 55%;
+    left: 35%;
     top: 20%;
 }
 .bootstrap{
-    left: 75%;
+    left: 55%;
     top: 20%;
 }
 .javascript{
@@ -97,11 +97,11 @@ body{
     top: 40%;
 }
 .jquery{
-    left: 35%;
+    left: 25%;
     top: 40%;
 }
 .firebase{
-    left: 55%;
+    left: 35%;
     top: 40%;
 }
 .resume{
