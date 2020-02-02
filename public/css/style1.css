@@ -5,11 +5,9 @@
     line-height: 2.0;
     width: 960px;
 }
-
 /* footer */
 .r1{
     height: 5px;
-
 }
 /* images in portfolio and index */
 img{
@@ -36,7 +34,6 @@ button{
 body{
     background: url("../images/triangle-mosaic.jpeg");
 }
-
 .header{
     width:960px;
 }

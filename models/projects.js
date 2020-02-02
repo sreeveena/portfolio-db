@@ -2,8 +2,8 @@
 var orm = require("../config/orm.js");
 
 var projects = {
-    selectAll: function(cb) {
-    orm.selectAll("projects", function(res) {
+  selectAll: function (cb) {
+    orm.selectAll("projects", function (res) {
       cb(res);
     });
   }
