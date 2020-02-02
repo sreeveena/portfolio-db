@@ -22,6 +22,9 @@ app.use(express.json());
 var routes = require("./controllers/html_controller.js");
 app.use(routes);
 
+var routes1 = require("./controllers/project_controller.js");
+app.use(routes1);
+
 app.listen(PORT, function() {
   console.log("App now listening at localhost:" + PORT);
 });
