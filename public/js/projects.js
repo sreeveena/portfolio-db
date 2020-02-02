@@ -52,8 +52,4 @@ function loadProjects(data) {
       var project = $(projectHTML);
       $("#projects").append(project);
     }
-    
-
-
-
 }
